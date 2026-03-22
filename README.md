@@ -10,31 +10,36 @@
 # 📊 GitHub Stats:
  🚀 Projects
 
+ # 🚀 Projects
+
+### 🔹 Stock Price Forecasting System
+- Built an ML-based system to predict stock prices using Prophet  
+- Integrated sentiment analysis using NLP techniques  
+- Used financial data APIs for real-time data fetching  
+- Focused on combining data analysis with predictive modeling  
+
+---
+
+### 🔹 AI Voice Assistant
+- Developed a voice-controlled assistant using Python  
+- Implemented speech recognition and command execution  
+- Automated basic tasks like opening apps, searching, and responses  
+- Focused on automation and real-time interaction  
+
+---
+
+### 🔹 Thumbnail Maker
+- Built a web-based tool using JavaScript for creating thumbnails  
+- Designed simple UI for quick image generation/editing  
+- Focused on usability and lightweight performance
+
+---
+
 ### 🔹 MST Visualizer (Prim’s & Kruskal’s)
 - Built a GUI-based application using Java Swing to visualize Minimum Spanning Tree algorithms  
 - Implemented Prim’s and Kruskal’s algorithms with step-by-step execution  
 - Interactive node placement for better visualization  
 - Focused on algorithm clarity and user experience  
-
----
-
-### 🔹 DSA Practice & Problem Solving
-- Solved problems on arrays, strings, stacks, and graphs  
-- Practiced recursion, sorting, and searching techniques  
-- Focused on optimized and clean code  
-
----
-
-### 🔹 Basic Web Projects
-- Built responsive pages using HTML, CSS, Bootstrap, and JavaScript  
-- Implemented DOM manipulation and basic frontend logic  
-- Focused on UI clarity and responsiveness  
-
----
-
-### 🔹 Python Data Handling (Beginner)
-- Used NumPy and Pandas for basic data processing  
-- Created small scripts for analysis and operations  
 
 
 # 🎯 Currently Building
